@@ -16,12 +16,12 @@
     "LANGUAGE": "vi_VN",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "100023986450526"
+        "100068105642081"
     ],
     "ABSOLUTES": [
-        "100023986450526"
+        "100068105642081"
     ],
-    "NAME": "ALPHABOT - CHIẾN THẦN SÀN WAR",
+    "NAME": " ",
     "PREFIX": "/",
     "timezone": "Asia/Ho_Chi_Minh",
     "REFRESH": "43200000",
@@ -38,12 +38,12 @@
         "REGBOX_AMOUNT": 100
     },
     "GBOTWAR_MESSAGE": {
-        "notiWelecome": "ALPHABOT - CHIẾN THẦN SÀN WAR 4.0",
-        "notiApprove": "Alphabot đã được phê duyệt để tham chiến",
-        "notiAutoRegBox": "Đây là auto regbox",
-        "SPAM_STOP": "Tạm tha cho chúng mày đó",
-        "SPAM_START": "Spam đọ đi mấy con óc lồn bại trận!",
-        "GONHAY_STOP": "Chúng mày tuổi lồn mà nhây với tao"
+        "notiWelecome": " ",
+        "notiApprove": " ",
+        "notiAutoRegBox": " ",
+        "SPAM_STOP": " ",
+        "SPAM_START": " ",
+        "GONHAY_STOP": " "
     },
     "GBOTWAR_ACTIVE": {
         "KEY_ACTIVE": "",
